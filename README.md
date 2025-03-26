@@ -31,6 +31,7 @@ Payman Vision is a comprehensive, AI-driven platform designed to streamline cont
 - **Payments**: Payman API
 - **State Management**: React Query
 - **Authentication**: JWT + Secure Headers
+-  **DB**: Supabase
 
 ## 🚦 Getting Started
 
