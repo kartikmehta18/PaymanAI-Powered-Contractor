@@ -72,6 +72,7 @@ npm run dev
 2. Add the API key to your environment variables:
 ```env
 VITE_PAYMAN_API_KEY=your_api_key_here
+YWd0LTFmMDBhNGU3LWNlNTAtNmY4NS05Y2UzLWZmN2NhN2M0ODI5MjpNeFRXMTEzbTRyQk53UXR2MWxLQzdQZmY1eg==
 ```
 
 ### Example Payment Flow
