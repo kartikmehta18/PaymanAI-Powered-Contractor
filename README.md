@@ -68,7 +68,7 @@ npm run dev
 
 ### Setting up Payman API
 
-1. Get your API key from [Payman Dashboard](https://dashboard.payman.io)
+1. Get your API key from [Payman Dashboard](https://paymanai.com/)
 2. Add the API key to your environment variables:
 ```env
 VITE_PAYMAN_API_KEY=your_api_key_here
